@@ -9,15 +9,8 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     tools:context="com.sexyuncle.xiaomilaunchernotificationdemo.MainActivity">
-<android.support.v7.widget.AppCompatEditText
+<TextView
     android:layout_width="match_parent"
-    android:layout_height="50dp"
-    android:hint="请输入消息数量"
-    android:inputType="number"
-    android:id="@+id/number"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:id="@+id/button"
-        android:text="发送"/>
+    android:layout_height="wrap_content"
+    android:text="Hello World"/>
 </LinearLayout>
