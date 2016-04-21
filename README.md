@@ -1,0 +1,3 @@
+# XiaoMiLauncherNotificationDemo
+小米桌面App图标未读通知个数实现
+暂时只支持miui6以上
